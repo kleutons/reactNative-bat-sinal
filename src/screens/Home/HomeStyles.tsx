@@ -1,7 +1,11 @@
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
-  container: {
-    
+  containerIndex: {
+    justifyContent: 'center',
+    alignItems: 'center'
+  },
+  batLogo:{
+    marginBottom:80
   }
 });
